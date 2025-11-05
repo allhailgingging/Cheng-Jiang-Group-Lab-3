@@ -1,1 +1,1 @@
-
+open('country_full.csv')
